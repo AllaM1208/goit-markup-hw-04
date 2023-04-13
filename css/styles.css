@@ -172,11 +172,17 @@ ul {
 
 /* ============================== */
        /*hero image section 1 */
-.hero-image {   
+.hero-image { 
+    max-width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
     background-color: var(--dark-background-color-1);
     padding-top: 188px;
     padding-bottom: 188px;
     background-image: url(../images/hero-image-section-1/people-office-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
     }
 
 .hero-title {   
