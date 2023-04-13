@@ -252,13 +252,14 @@ ul {
     padding-left: 0px;
 }
 
-.icon-1 {
+.icon-1-container {
     display: flex;
     align-items: center;
     justify-content: center;
     height: 112px;
     background: var(--light-background-color-1);
     border-radius: 4px;
+    margin-bottom: 8px;
 }
 
 
