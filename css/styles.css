@@ -252,6 +252,16 @@ ul {
     padding-left: 0px;
 }
 
+.icon-1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 112px;
+    background: var(--light-background-color-1);
+    border-radius: 4px;
+}
+
+
 .features-title {   
     font-weight: 500;
     font-size: 20px;
