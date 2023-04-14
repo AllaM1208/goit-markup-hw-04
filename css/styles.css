@@ -253,12 +253,12 @@ ul {
 }
 
 .icon-container {
+    background: var(--light-background-color-1);
+    height: 112px;
+    border-radius: 4px;
     display: flex;
     align-items: center;
-    justify-content: center;
-    height: 112px;
-    background: var(--light-background-color-1);
-    border-radius: 4px;
+    justify-content: center;      
     margin-bottom: 8px;
 }
 
