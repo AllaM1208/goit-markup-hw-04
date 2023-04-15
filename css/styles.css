@@ -302,7 +302,7 @@ ul {
 
 
 /* =============================== */
-        /*  section 3  */
+    /*  doing section 3  */
 
 .doing-section {
     padding-bottom: 120px;
@@ -325,12 +325,12 @@ ul {
 .item-doing-section {
     width: 360px;
 }
-        /* section 3  */
+        /* doing section 3  */
 /* =============================== */
 
 
 /* =============================== */
-        /* section 4 */
+        /*  team section 4 */
 
 .team {
     padding: 120px 0;        
@@ -410,9 +410,24 @@ ul {
     fill: var(--socials-icon-color-1);
 }
 
-         /* section 4 */
+         /*  team section 4 */
 /* =============================== */
+      
+/* =============================== */
+        /* customers section 5 */
 
+
+
+
+
+
+
+
+
+        
+
+        /* customers section 5 */
+/* =============================== */     
 
 /* =============================== */
         /*footer section */
