@@ -435,7 +435,7 @@ ul {
     gap: 24px;
 }
 
-.clients-link {
+.clients-container {
     display: flex;
     height: 88px;
     border: 1px solid #8E8F99;
@@ -447,8 +447,13 @@ ul {
 }
 
 .clients-link {
+    display: flex;
     width: 100%;
     height: 100%;
+    border: 1px solid #8e8f99;
+    border-radius: 4px;
+    align-items: center;
+    justify-content: center;
 }
  
 
