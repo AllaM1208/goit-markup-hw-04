@@ -435,6 +435,14 @@ ul {
     color: var(--dark-text-color-1);
 }
 
+.clients-container {
+    display: flex;
+    border: 1px solid #8E8F99;
+    border-radius: 4px;    
+    align-items: center;
+    justify-content: center;
+   
+}
 
 
 
