@@ -432,6 +432,7 @@ ul {
 }
 .clients-list {
     display: flex;
+    gap: 24px;
 }
 
 
