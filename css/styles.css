@@ -24,6 +24,12 @@
 
 --button-text-color-1: #4D5AE5;
 --button-text-color-2: #fff;
+
+--socials-icon-background-color-1: #4D5AE5;
+--socials-icon-background-hover-focus: #404BBF;
+--socials-icon-color-1: #f4f4fd;
+
+
 }
 
 /* =========================================== */
@@ -356,7 +362,7 @@ ul {
 }
 
 .item-name-team {
-    padding: 32px 16px; 
+    padding: 32px 0; 
 }
 
 .name-team {  
@@ -391,12 +397,17 @@ ul {
     align-items: center;
     width: 40px;
     height: 40px;
-    background-color: #4D5AE5;
+    background-color: var(--socials-icon-background-color-1);
     border-radius: 50%;
 }
 
+.socials-link:hover,
+.socials-link:focus {
+    background-color: var(--socials-icon-background-hover-focus);
+}
+
 .socials-icon {
-    fill: currentColor;
+    fill: var(--socials-icon-color-1);
 }
 
          /* section 4 */
