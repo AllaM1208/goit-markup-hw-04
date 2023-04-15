@@ -417,7 +417,7 @@ ul {
         /* customers section 5 */
 
 
-.customers {
+.customers-section {
     padding: 120px 0;
 }
 
@@ -432,18 +432,14 @@ ul {
 }
 .clients-list {
     display: flex;
+    justify-content: center;
     gap: 24px;
+    
 }
 
-.clients-container {
-    display: flex;
-    height: 88px;
-    border: 1px solid #8E8F99;
-    border-radius: 4px;    
-    align-items: center;
-    justify-content: center;
-    gap: 24px; 
+.clients-container {   
     width: calc((100% - 120px) / 6);
+    height: 88px;
 }
 
 .clients-link {
@@ -454,8 +450,15 @@ ul {
     border-radius: 4px;
     align-items: center;
     justify-content: center;
+    color: #8e8f99;
 }
  
+
+ 
+
+
+ 
+
 
         /* customers section 5 */
 /* =============================== */     
