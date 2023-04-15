@@ -437,16 +437,17 @@ ul {
 
 .clients-container {
     display: flex;
-    height: 168px;
+    height: 88px;
     border: 1px solid #8E8F99;
     border-radius: 4px;    
     align-items: center;
     justify-content: center;
-    gap: 24px;   
+    gap: 24px; 
+    width: calc((100% - 120px) / 6);
 }
 
 
-
+ 
 
         /* customers section 5 */
 /* =============================== */     
