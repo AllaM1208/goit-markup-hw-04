@@ -454,10 +454,16 @@ ul {
 }
  
 
+.clients-link:hover,
+.clients-link:focus {
+    border-color: #404bbf;
+    color: #404bbf;
+}
  
+.clients-icon {
+    fill: currentColor;
+}
 
-
- 
 
 
         /* customers section 5 */
