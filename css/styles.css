@@ -435,7 +435,7 @@ ul {
     gap: 24px;
 }
 
-.clients-container {
+.clients-link {
     display: flex;
     height: 88px;
     border: 1px solid #8E8F99;
