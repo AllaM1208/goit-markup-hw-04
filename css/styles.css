@@ -418,29 +418,31 @@ ul {
 
 
 .customers {
-    padding: 120px;
-}
-
-.container-customers {
-    display: flex;
+    padding-top: 120px;
 }
 
 .title-container {
     margin-bottom: 72px;
     font-size: 36px;
-    line-height: 1.11;
+    line-height: 1.1;
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: var(--dark-text-color-1);
 }
+.clients-list {
+    display: flex;
+}
+
 
 .clients-container {
     display: flex;
+    height: 168px;
     border: 1px solid #8E8F99;
     border-radius: 4px;    
     align-items: center;
     justify-content: center;
+    gap: 24px
    
 }
 
