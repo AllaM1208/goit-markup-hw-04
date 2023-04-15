@@ -370,12 +370,33 @@ ul {
 }
 
 .specialist-team {   
+    margin-bottom: 8px;
     font-size: 16px;
     line-height: 24px;
     text-align: center;
     letter-spacing: 0.02em;
     color: var(--dark-text-color-2);
+    margin-bottom: 8px;
 }
+
+.socials {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+
+.socials-link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    background-color: #4D5AE5;
+    border-radius: 50%;
+
+}
+
+
          /* section 4 */
 /* =============================== */
 
