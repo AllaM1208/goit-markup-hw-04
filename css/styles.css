@@ -417,14 +417,27 @@ ul {
         /* customers section 5 */
 
 
+.customers {
+    padding: 120px;
+}
+
+.container-customers {
+    display: flex;
+}
+
+.title-container {
+    margin-bottom: 72px;
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: var(--dark-text-color-1);
+}
 
 
 
 
-
-
-
-        
 
         /* customers section 5 */
 /* =============================== */     
