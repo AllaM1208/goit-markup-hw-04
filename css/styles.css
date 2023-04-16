@@ -520,8 +520,6 @@ ul {
     margin-right: 120px;
 }
 
-
-
 .footer-socials-link {
     display: flex;
     justify-content: center;
@@ -541,18 +539,6 @@ ul {
     fill: var(--socials-icon-color-1);
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
 .footer-social-team {
     font-family: 'Roboto';
     font-style: normal;
@@ -562,6 +548,12 @@ ul {
     letter-spacing: 0.02em;
     color: var(--light-text-color-2);
     margin-bottom: 16px;
+}
+
+.footer-socials {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
 }
 
        /* footer section */
