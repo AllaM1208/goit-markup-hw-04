@@ -511,6 +511,18 @@ ul {
     text-decoration: none;
     color: var(--logo-color-3);
 }
+
+.footer-social-team {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: var(--light-text-color-2);
+    margin-bottom: 16px;
+}
+
        /* footer section */
 /* =============================== */
 
