@@ -32,6 +32,11 @@
 --clients-icon-color-1: #8e8f99;
 --clients-icon-color-hover-focus: #404BBF;
 
+--footer-socials-icon-background-color-1: #4D5AE5;
+--footer-socials-icon-background-hover-focus: #31D0AA;
+
+
+
 
 }
 
@@ -510,6 +515,43 @@ ul {
     text-decoration: none;
     color: var(--logo-color-3);
 }
+
+.footer-icon-container {
+
+}
+
+
+
+.footer-socials-link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    background-color: var(--footer-socials-icon-background-color-1);
+    border-radius: 50%;
+}
+
+.footer-socials-link:hover,
+.footer-socials-link:focus {
+    background-color: var(--footer-socials-icon-background-hover-focus);
+}
+
+.footer-socials-icon {
+    fill: var(--socials-icon-color-1);
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 .footer-social-team {
     font-family: 'Roboto';
