@@ -516,8 +516,8 @@ ul {
     color: var(--logo-color-3);
 }
 
-.footer-icon-container {
-
+.footer-logo-container {
+    margin-right: 120px;
 }
 
 
