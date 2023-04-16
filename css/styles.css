@@ -416,6 +416,8 @@ ul {
 
 .socials-icon {
     fill: var(--socials-icon-color-1);
+    width: 16px;
+    height: 16px;
 }
 
          /*  team section 4 */
@@ -468,6 +470,9 @@ ul {
  
 .clients-icon {
     fill: currentColor;
+    width: 104px;
+     height: 56px;
+
 }
         /* customers section 5 */
 /* =============================== */     
@@ -534,6 +539,8 @@ ul {
 
 .footer-socials-icon {
     fill: var(--socials-icon-color-1);
+    width: 24px;
+    height: 24px;
 }
 
 .footer-social-team {
