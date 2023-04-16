@@ -482,7 +482,7 @@ ul {
 .footer-container {
     display: flex;
     align-items: baseline;
-}
+    }
 
 .footer-section-text {  
     font-size: 16px;
