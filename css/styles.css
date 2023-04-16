@@ -517,10 +517,6 @@ ul {
     color: var(--logo-color-3);
 }
 
-.footer-logo-container {
-   
-}
-
 .footer-socials-link {
     display: flex;
     justify-content: center;
